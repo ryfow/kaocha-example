@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :aliases
+ {:test
+  {:extra-deps {lambdaisland/kaocha {:mvn/version "0.0-266"}
+                lambdaisland/kaocha-cloverage {:mvn/version "0.0-6"}}}}}
